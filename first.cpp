@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     unsigned long long x = 4000000000;
-    cout << "Helo word!" << endl;
+    cout << "Hello word!" << endl;
     return 0;
 }
